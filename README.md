@@ -14,5 +14,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kamxsh21/DSA-PROGRESS/tree/master/0022-generate-parentheses) |
 | [3110-score-of-a-string](https://github.com/kamxsh21/DSA-PROGRESS/tree/master/3110-score-of-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/kamxsh21/DSA-PROGRESS/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/kamxsh21/DSA-PROGRESS/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/kamxsh21/DSA-PROGRESS/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
