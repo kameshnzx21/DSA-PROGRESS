@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+
+int main() 
+{
+    int x,y,z,simpint;
+    cout<<"enter the amount:";
+    cin >> x;
+    cout<< "Enter the time taken:";
+    cin >> y;
+    cout << "enter the interest given for the amt:";
+    cin >> z;
+    simpint=(x*y*z)/100;
+    cout << "simple interest is:"<< simpint;
+    
+    return 0;
+}
