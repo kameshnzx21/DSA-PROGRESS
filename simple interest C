@@ -1,0 +1,14 @@
+#include <stdio.h>
+int main()
+{
+    int x,y,z, simpint;
+
+    printf("enter the amount:");
+    scanf( "%d" , &x);
+    printf("enter the y time:");
+    scanf("%d" , &y);
+    printf("Enter the z intrest:");
+    scanf("%d"  , &z);
+    simpint= (x*y*z)/100;
+    printf("SIMPLE INTRESRT :%d ",simpint);
+}
